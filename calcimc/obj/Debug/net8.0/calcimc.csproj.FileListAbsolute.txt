@@ -1,0 +1,14 @@
+D:\PROGRAMAÇÃO EM C#\códC#\Atividades\calcimc\calcimc\bin\Debug\net8.0\calcimc.exe
+D:\PROGRAMAÇÃO EM C#\códC#\Atividades\calcimc\calcimc\bin\Debug\net8.0\calcimc.deps.json
+D:\PROGRAMAÇÃO EM C#\códC#\Atividades\calcimc\calcimc\bin\Debug\net8.0\calcimc.runtimeconfig.json
+D:\PROGRAMAÇÃO EM C#\códC#\Atividades\calcimc\calcimc\bin\Debug\net8.0\calcimc.dll
+D:\PROGRAMAÇÃO EM C#\códC#\Atividades\calcimc\calcimc\bin\Debug\net8.0\calcimc.pdb
+D:\PROGRAMAÇÃO EM C#\códC#\Atividades\calcimc\calcimc\obj\Debug\net8.0\calcimc.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAMAÇÃO EM C#\códC#\Atividades\calcimc\calcimc\obj\Debug\net8.0\calcimc.AssemblyInfoInputs.cache
+D:\PROGRAMAÇÃO EM C#\códC#\Atividades\calcimc\calcimc\obj\Debug\net8.0\calcimc.AssemblyInfo.cs
+D:\PROGRAMAÇÃO EM C#\códC#\Atividades\calcimc\calcimc\obj\Debug\net8.0\calcimc.csproj.CoreCompileInputs.cache
+D:\PROGRAMAÇÃO EM C#\códC#\Atividades\calcimc\calcimc\obj\Debug\net8.0\calcimc.dll
+D:\PROGRAMAÇÃO EM C#\códC#\Atividades\calcimc\calcimc\obj\Debug\net8.0\refint\calcimc.dll
+D:\PROGRAMAÇÃO EM C#\códC#\Atividades\calcimc\calcimc\obj\Debug\net8.0\calcimc.pdb
+D:\PROGRAMAÇÃO EM C#\códC#\Atividades\calcimc\calcimc\obj\Debug\net8.0\calcimc.genruntimeconfig.cache
+D:\PROGRAMAÇÃO EM C#\códC#\Atividades\calcimc\calcimc\obj\Debug\net8.0\ref\calcimc.dll

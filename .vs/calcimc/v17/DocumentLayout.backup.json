@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PROGRAMA\u00C7\u00C3O EM C#\\c\u00F3dC#\\Atividades\\calcimc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC32E58-A26B-4337-AC5C-C15E8183B87D}|calcimc\\calcimc.csproj|d:\\programa\u00E7\u00E3o em c#\\c\u00F3dc#\\atividades\\calcimc\\calcimc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDC32E58-A26B-4337-AC5C-C15E8183B87D}|calcimc\\calcimc.csproj|solutionrelative:calcimc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PROGRAMA\u00C7\u00C3O EM C#\\c\u00F3dC#\\Atividades\\calcimc\\calcimc\\Program.cs",
+              "RelativeDocumentMoniker": "calcimc\\Program.cs",
+              "ToolTip": "D:\\PROGRAMA\u00C7\u00C3O EM C#\\c\u00F3dC#\\Atividades\\calcimc\\calcimc\\Program.cs",
+              "RelativeToolTip": "calcimc\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T12:07:21.151Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
