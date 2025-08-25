@@ -1,0 +1,14 @@
+D:\PROGRAMAÇÃO EM C#\códC#\Arraysefuncoes\Arraysefuncoes\obj\Debug\net9.0\Arraysefuncoes.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAMAÇÃO EM C#\códC#\Arraysefuncoes\Arraysefuncoes\obj\Debug\net9.0\Arraysefuncoes.AssemblyInfoInputs.cache
+D:\PROGRAMAÇÃO EM C#\códC#\Arraysefuncoes\Arraysefuncoes\obj\Debug\net9.0\Arraysefuncoes.AssemblyInfo.cs
+D:\PROGRAMAÇÃO EM C#\códC#\Arraysefuncoes\Arraysefuncoes\obj\Debug\net9.0\Arraysefuncoes.csproj.CoreCompileInputs.cache
+D:\PROGRAMAÇÃO EM C#\códC#\Arraysefuncoes\Arraysefuncoes\bin\Debug\net9.0\Arraysefuncoes.exe
+D:\PROGRAMAÇÃO EM C#\códC#\Arraysefuncoes\Arraysefuncoes\bin\Debug\net9.0\Arraysefuncoes.deps.json
+D:\PROGRAMAÇÃO EM C#\códC#\Arraysefuncoes\Arraysefuncoes\bin\Debug\net9.0\Arraysefuncoes.runtimeconfig.json
+D:\PROGRAMAÇÃO EM C#\códC#\Arraysefuncoes\Arraysefuncoes\bin\Debug\net9.0\Arraysefuncoes.dll
+D:\PROGRAMAÇÃO EM C#\códC#\Arraysefuncoes\Arraysefuncoes\bin\Debug\net9.0\Arraysefuncoes.pdb
+D:\PROGRAMAÇÃO EM C#\códC#\Arraysefuncoes\Arraysefuncoes\obj\Debug\net9.0\Arraysefuncoes.dll
+D:\PROGRAMAÇÃO EM C#\códC#\Arraysefuncoes\Arraysefuncoes\obj\Debug\net9.0\refint\Arraysefuncoes.dll
+D:\PROGRAMAÇÃO EM C#\códC#\Arraysefuncoes\Arraysefuncoes\obj\Debug\net9.0\Arraysefuncoes.pdb
+D:\PROGRAMAÇÃO EM C#\códC#\Arraysefuncoes\Arraysefuncoes\obj\Debug\net9.0\Arraysefuncoes.genruntimeconfig.cache
+D:\PROGRAMAÇÃO EM C#\códC#\Arraysefuncoes\Arraysefuncoes\obj\Debug\net9.0\ref\Arraysefuncoes.dll
