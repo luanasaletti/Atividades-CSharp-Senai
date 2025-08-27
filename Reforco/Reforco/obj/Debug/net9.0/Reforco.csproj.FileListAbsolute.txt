@@ -1,0 +1,14 @@
+D:\PROGRAMAÇÃO EM C#\códC#\Reforco\Reforco\bin\Debug\net9.0\Reforco.exe
+D:\PROGRAMAÇÃO EM C#\códC#\Reforco\Reforco\bin\Debug\net9.0\Reforco.deps.json
+D:\PROGRAMAÇÃO EM C#\códC#\Reforco\Reforco\bin\Debug\net9.0\Reforco.runtimeconfig.json
+D:\PROGRAMAÇÃO EM C#\códC#\Reforco\Reforco\bin\Debug\net9.0\Reforco.dll
+D:\PROGRAMAÇÃO EM C#\códC#\Reforco\Reforco\bin\Debug\net9.0\Reforco.pdb
+D:\PROGRAMAÇÃO EM C#\códC#\Reforco\Reforco\obj\Debug\net9.0\Reforco.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAMAÇÃO EM C#\códC#\Reforco\Reforco\obj\Debug\net9.0\Reforco.AssemblyInfoInputs.cache
+D:\PROGRAMAÇÃO EM C#\códC#\Reforco\Reforco\obj\Debug\net9.0\Reforco.AssemblyInfo.cs
+D:\PROGRAMAÇÃO EM C#\códC#\Reforco\Reforco\obj\Debug\net9.0\Reforco.csproj.CoreCompileInputs.cache
+D:\PROGRAMAÇÃO EM C#\códC#\Reforco\Reforco\obj\Debug\net9.0\Reforco.dll
+D:\PROGRAMAÇÃO EM C#\códC#\Reforco\Reforco\obj\Debug\net9.0\refint\Reforco.dll
+D:\PROGRAMAÇÃO EM C#\códC#\Reforco\Reforco\obj\Debug\net9.0\Reforco.pdb
+D:\PROGRAMAÇÃO EM C#\códC#\Reforco\Reforco\obj\Debug\net9.0\Reforco.genruntimeconfig.cache
+D:\PROGRAMAÇÃO EM C#\códC#\Reforco\Reforco\obj\Debug\net9.0\ref\Reforco.dll

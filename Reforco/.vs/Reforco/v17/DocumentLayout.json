@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PROGRAMA\u00C7\u00C3O EM C#\\c\u00F3dC#\\Reforco\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{483B87FA-B37A-458E-AE69-C1DE18551730}|Reforco\\Reforco.csproj|d:\\programa\u00E7\u00E3o em c#\\c\u00F3dc#\\reforco\\reforco\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{483B87FA-B37A-458E-AE69-C1DE18551730}|Reforco\\Reforco.csproj|solutionrelative:reforco\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PROGRAMA\u00C7\u00C3O EM C#\\c\u00F3dC#\\Reforco\\Reforco\\Program.cs",
+              "RelativeDocumentMoniker": "Reforco\\Program.cs",
+              "ToolTip": "D:\\PROGRAMA\u00C7\u00C3O EM C#\\c\u00F3dC#\\Reforco\\Reforco\\Program.cs",
+              "RelativeToolTip": "Reforco\\Program.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAzwFcAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T11:09:48.445Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
