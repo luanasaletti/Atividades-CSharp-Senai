@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PROGRAMA\u00C7\u00C3O EM C#\\c\u00F3dC#\\Atividades\\calcimc\\AtividadePOO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67A74DAD-02E8-4859-BA32-C7C3E40CBDF2}|AtividadePOO\\AtividadePOO.csproj|d:\\programa\u00E7\u00E3o em c#\\c\u00F3dc#\\atividades\\calcimc\\atividadepoo\\atividadepoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A74DAD-02E8-4859-BA32-C7C3E40CBDF2}|AtividadePOO\\AtividadePOO.csproj|solutionrelative:atividadepoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A74DAD-02E8-4859-BA32-C7C3E40CBDF2}|AtividadePOO\\AtividadePOO.csproj|d:\\programa\u00E7\u00E3o em c#\\c\u00F3dc#\\atividades\\calcimc\\atividadepoo\\atividadepoo\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A74DAD-02E8-4859-BA32-C7C3E40CBDF2}|AtividadePOO\\AtividadePOO.csproj|solutionrelative:atividadepoo\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "D:\\PROGRAMA\u00C7\u00C3O EM C#\\c\u00F3dC#\\Atividades\\calcimc\\AtividadePOO\\AtividadePOO\\Pessoa.cs",
+              "RelativeDocumentMoniker": "AtividadePOO\\Pessoa.cs",
+              "ToolTip": "D:\\PROGRAMA\u00C7\u00C3O EM C#\\c\u00F3dC#\\Atividades\\calcimc\\AtividadePOO\\AtividadePOO\\Pessoa.cs",
+              "RelativeToolTip": "AtividadePOO\\Pessoa.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA1wBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T14:22:33.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PROGRAMA\u00C7\u00C3O EM C#\\c\u00F3dC#\\Atividades\\calcimc\\AtividadePOO\\AtividadePOO\\Program.cs",
+              "RelativeDocumentMoniker": "AtividadePOO\\Program.cs",
+              "ToolTip": "D:\\PROGRAMA\u00C7\u00C3O EM C#\\c\u00F3dC#\\Atividades\\calcimc\\AtividadePOO\\AtividadePOO\\Program.cs",
+              "RelativeToolTip": "AtividadePOO\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T14:02:37.59Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

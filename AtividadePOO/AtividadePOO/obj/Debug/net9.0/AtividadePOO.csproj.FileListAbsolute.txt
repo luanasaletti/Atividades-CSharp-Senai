@@ -1,0 +1,15 @@
+D:\PROGRAMAÇÃO EM C#\códC#\Atividades\calcimc\AtividadePOO\AtividadePOO\obj\Debug\net9.0\AtividadePOO.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAMAÇÃO EM C#\códC#\Atividades\calcimc\AtividadePOO\AtividadePOO\obj\Debug\net9.0\AtividadePOO.AssemblyInfoInputs.cache
+D:\PROGRAMAÇÃO EM C#\códC#\Atividades\calcimc\AtividadePOO\AtividadePOO\obj\Debug\net9.0\AtividadePOO.AssemblyInfo.cs
+D:\PROGRAMAÇÃO EM C#\códC#\Atividades\calcimc\AtividadePOO\AtividadePOO\obj\Debug\net9.0\AtividadePOO.csproj.CoreCompileInputs.cache
+D:\PROGRAMAÇÃO EM C#\códC#\Atividades\calcimc\AtividadePOO\AtividadePOO\obj\Debug\net9.0\AtividadePOO.sourcelink.json
+D:\PROGRAMAÇÃO EM C#\códC#\Atividades\calcimc\AtividadePOO\AtividadePOO\bin\Debug\net9.0\AtividadePOO.exe
+D:\PROGRAMAÇÃO EM C#\códC#\Atividades\calcimc\AtividadePOO\AtividadePOO\bin\Debug\net9.0\AtividadePOO.deps.json
+D:\PROGRAMAÇÃO EM C#\códC#\Atividades\calcimc\AtividadePOO\AtividadePOO\bin\Debug\net9.0\AtividadePOO.runtimeconfig.json
+D:\PROGRAMAÇÃO EM C#\códC#\Atividades\calcimc\AtividadePOO\AtividadePOO\bin\Debug\net9.0\AtividadePOO.dll
+D:\PROGRAMAÇÃO EM C#\códC#\Atividades\calcimc\AtividadePOO\AtividadePOO\bin\Debug\net9.0\AtividadePOO.pdb
+D:\PROGRAMAÇÃO EM C#\códC#\Atividades\calcimc\AtividadePOO\AtividadePOO\obj\Debug\net9.0\AtividadePOO.dll
+D:\PROGRAMAÇÃO EM C#\códC#\Atividades\calcimc\AtividadePOO\AtividadePOO\obj\Debug\net9.0\refint\AtividadePOO.dll
+D:\PROGRAMAÇÃO EM C#\códC#\Atividades\calcimc\AtividadePOO\AtividadePOO\obj\Debug\net9.0\AtividadePOO.pdb
+D:\PROGRAMAÇÃO EM C#\códC#\Atividades\calcimc\AtividadePOO\AtividadePOO\obj\Debug\net9.0\AtividadePOO.genruntimeconfig.cache
+D:\PROGRAMAÇÃO EM C#\códC#\Atividades\calcimc\AtividadePOO\AtividadePOO\obj\Debug\net9.0\ref\AtividadePOO.dll
