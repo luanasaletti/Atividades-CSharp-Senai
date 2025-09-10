@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fic\\Desktop\\Projeto_Estoque_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{971E4248-2DF7-49B4-80B3-C97F5ACAAF3C}|Projeto_Estoque_2\\Projeto_Estoque_2.csproj|c:\\users\\fic\\desktop\\projeto_estoque_2\\projeto_estoque_2\\classes\\estoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{971E4248-2DF7-49B4-80B3-C97F5ACAAF3C}|Projeto_Estoque_2\\Projeto_Estoque_2.csproj|solutionrelative:projeto_estoque_2\\classes\\estoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{971E4248-2DF7-49B4-80B3-C97F5ACAAF3C}|Projeto_Estoque_2\\Projeto_Estoque_2.csproj|c:\\users\\fic\\desktop\\projeto_estoque_2\\projeto_estoque_2\\classes\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{971E4248-2DF7-49B4-80B3-C97F5ACAAF3C}|Projeto_Estoque_2\\Projeto_Estoque_2.csproj|solutionrelative:projeto_estoque_2\\classes\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{971E4248-2DF7-49B4-80B3-C97F5ACAAF3C}|Projeto_Estoque_2\\Projeto_Estoque_2.csproj|c:\\users\\fic\\desktop\\projeto_estoque_2\\projeto_estoque_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{971E4248-2DF7-49B4-80B3-C97F5ACAAF3C}|Projeto_Estoque_2\\Projeto_Estoque_2.csproj|solutionrelative:projeto_estoque_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{971E4248-2DF7-49B4-80B3-C97F5ACAAF3C}|Projeto_Estoque_2\\Projeto_Estoque_2.csproj|c:\\users\\fic\\desktop\\projeto_estoque_2\\projeto_estoque_2\\classes\\produto_vestuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{971E4248-2DF7-49B4-80B3-C97F5ACAAF3C}|Projeto_Estoque_2\\Projeto_Estoque_2.csproj|solutionrelative:projeto_estoque_2\\classes\\produto_vestuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{971E4248-2DF7-49B4-80B3-C97F5ACAAF3C}|Projeto_Estoque_2\\Projeto_Estoque_2.csproj|c:\\users\\fic\\desktop\\projeto_estoque_2\\projeto_estoque_2\\classes\\produto_eletronico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{971E4248-2DF7-49B4-80B3-C97F5ACAAF3C}|Projeto_Estoque_2\\Projeto_Estoque_2.csproj|solutionrelative:projeto_estoque_2\\classes\\produto_eletronico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Estoque.cs",
+              "DocumentMoniker": "C:\\Users\\fic\\Desktop\\Projeto_Estoque_2\\Projeto_Estoque_2\\Classes\\Estoque.cs",
+              "RelativeDocumentMoniker": "Projeto_Estoque_2\\Classes\\Estoque.cs",
+              "ToolTip": "C:\\Users\\fic\\Desktop\\Projeto_Estoque_2\\Projeto_Estoque_2\\Classes\\Estoque.cs",
+              "RelativeToolTip": "Projeto_Estoque_2\\Classes\\Estoque.cs",
+              "ViewState": "AgIAANEAAAAAAAAAAAAiwOUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T12:35:35.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Produto_Eletronico.cs",
+              "DocumentMoniker": "C:\\Users\\fic\\Desktop\\Projeto_Estoque_2\\Projeto_Estoque_2\\Classes\\Produto_Eletronico.cs",
+              "RelativeDocumentMoniker": "Projeto_Estoque_2\\Classes\\Produto_Eletronico.cs",
+              "ToolTip": "C:\\Users\\fic\\Desktop\\Projeto_Estoque_2\\Projeto_Estoque_2\\Classes\\Produto_Eletronico.cs",
+              "RelativeToolTip": "Projeto_Estoque_2\\Classes\\Produto_Eletronico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T12:07:40.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Produto_Vestuario.cs",
+              "DocumentMoniker": "C:\\Users\\fic\\Desktop\\Projeto_Estoque_2\\Projeto_Estoque_2\\Classes\\Produto_Vestuario.cs",
+              "RelativeDocumentMoniker": "Projeto_Estoque_2\\Classes\\Produto_Vestuario.cs",
+              "ToolTip": "C:\\Users\\fic\\Desktop\\Projeto_Estoque_2\\Projeto_Estoque_2\\Classes\\Produto_Vestuario.cs",
+              "RelativeToolTip": "Projeto_Estoque_2\\Classes\\Produto_Vestuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T11:53:49.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\fic\\Desktop\\Projeto_Estoque_2\\Projeto_Estoque_2\\Classes\\Produto.cs",
+              "RelativeDocumentMoniker": "Projeto_Estoque_2\\Classes\\Produto.cs",
+              "ToolTip": "C:\\Users\\fic\\Desktop\\Projeto_Estoque_2\\Projeto_Estoque_2\\Classes\\Produto.cs",
+              "RelativeToolTip": "Projeto_Estoque_2\\Classes\\Produto.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAswDAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T11:34:41.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fic\\Desktop\\Projeto_Estoque_2\\Projeto_Estoque_2\\Program.cs",
+              "RelativeDocumentMoniker": "Projeto_Estoque_2\\Program.cs",
+              "ToolTip": "C:\\Users\\fic\\Desktop\\Projeto_Estoque_2\\Projeto_Estoque_2\\Program.cs",
+              "RelativeToolTip": "Projeto_Estoque_2\\Program.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAAEkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T11:28:22.433Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
