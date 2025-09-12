@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fic\\Desktop\\PROJETOBIBLIOTECA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01BFE5FF-0E37-4F6B-A122-3E93E3582BB4}|PROJETOBIBLIOTECA\\PROJETOBIBLIOTECA.csproj|c:\\users\\fic\\desktop\\projetobiblioteca\\projetobiblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01BFE5FF-0E37-4F6B-A122-3E93E3582BB4}|PROJETOBIBLIOTECA\\PROJETOBIBLIOTECA.csproj|solutionrelative:projetobiblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01BFE5FF-0E37-4F6B-A122-3E93E3582BB4}|PROJETOBIBLIOTECA\\PROJETOBIBLIOTECA.csproj|c:\\users\\fic\\desktop\\projetobiblioteca\\projetobiblioteca\\biblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01BFE5FF-0E37-4F6B-A122-3E93E3582BB4}|PROJETOBIBLIOTECA\\PROJETOBIBLIOTECA.csproj|solutionrelative:projetobiblioteca\\biblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01BFE5FF-0E37-4F6B-A122-3E93E3582BB4}|PROJETOBIBLIOTECA\\PROJETOBIBLIOTECA.csproj|c:\\users\\fic\\desktop\\projetobiblioteca\\projetobiblioteca\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01BFE5FF-0E37-4F6B-A122-3E93E3582BB4}|PROJETOBIBLIOTECA\\PROJETOBIBLIOTECA.csproj|solutionrelative:projetobiblioteca\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Biblioteca.cs",
+              "DocumentMoniker": "C:\\Users\\fic\\Desktop\\PROJETOBIBLIOTECA\\PROJETOBIBLIOTECA\\Biblioteca.cs",
+              "RelativeDocumentMoniker": "PROJETOBIBLIOTECA\\Biblioteca.cs",
+              "ToolTip": "C:\\Users\\fic\\Desktop\\PROJETOBIBLIOTECA\\PROJETOBIBLIOTECA\\Biblioteca.cs*",
+              "RelativeToolTip": "PROJETOBIBLIOTECA\\Biblioteca.cs*",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAIwHEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T11:36:10.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Livro.cs",
+              "DocumentMoniker": "C:\\Users\\fic\\Desktop\\PROJETOBIBLIOTECA\\PROJETOBIBLIOTECA\\Livro.cs",
+              "RelativeDocumentMoniker": "PROJETOBIBLIOTECA\\Livro.cs",
+              "ToolTip": "C:\\Users\\fic\\Desktop\\PROJETOBIBLIOTECA\\PROJETOBIBLIOTECA\\Livro.cs",
+              "RelativeToolTip": "PROJETOBIBLIOTECA\\Livro.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAwwCwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T11:24:54.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fic\\Desktop\\PROJETOBIBLIOTECA\\PROJETOBIBLIOTECA\\Program.cs",
+              "RelativeDocumentMoniker": "PROJETOBIBLIOTECA\\Program.cs",
+              "ToolTip": "C:\\Users\\fic\\Desktop\\PROJETOBIBLIOTECA\\PROJETOBIBLIOTECA\\Program.cs",
+              "RelativeToolTip": "PROJETOBIBLIOTECA\\Program.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAQwEUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T11:19:56.472Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
