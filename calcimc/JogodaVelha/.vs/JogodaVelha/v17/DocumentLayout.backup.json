@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fic\\Desktop\\JogodaVelha\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E75BCC7E-FC33-4810-A5BE-A40A9DF3C8A7}|JogodaVelha\\JogodaVelha.csproj|c:\\users\\fic\\desktop\\jogodavelha\\jogodavelha\\tabuleiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E75BCC7E-FC33-4810-A5BE-A40A9DF3C8A7}|JogodaVelha\\JogodaVelha.csproj|solutionrelative:jogodavelha\\tabuleiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E75BCC7E-FC33-4810-A5BE-A40A9DF3C8A7}|JogodaVelha\\JogodaVelha.csproj|c:\\users\\fic\\desktop\\jogodavelha\\jogodavelha\\jogador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E75BCC7E-FC33-4810-A5BE-A40A9DF3C8A7}|JogodaVelha\\JogodaVelha.csproj|solutionrelative:jogodavelha\\jogador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E75BCC7E-FC33-4810-A5BE-A40A9DF3C8A7}|JogodaVelha\\JogodaVelha.csproj|c:\\users\\fic\\desktop\\jogodavelha\\jogodavelha\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E75BCC7E-FC33-4810-A5BE-A40A9DF3C8A7}|JogodaVelha\\JogodaVelha.csproj|solutionrelative:jogodavelha\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Jogador.cs",
+              "DocumentMoniker": "C:\\Users\\fic\\Desktop\\JogodaVelha\\JogodaVelha\\Jogador.cs",
+              "RelativeDocumentMoniker": "JogodaVelha\\Jogador.cs",
+              "ToolTip": "C:\\Users\\fic\\Desktop\\JogodaVelha\\JogodaVelha\\Jogador.cs",
+              "RelativeToolTip": "JogodaVelha\\Jogador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T12:17:18.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tabuleiro.cs",
+              "DocumentMoniker": "C:\\Users\\fic\\Desktop\\JogodaVelha\\JogodaVelha\\Tabuleiro.cs",
+              "RelativeDocumentMoniker": "JogodaVelha\\Tabuleiro.cs",
+              "ToolTip": "C:\\Users\\fic\\Desktop\\JogodaVelha\\JogodaVelha\\Tabuleiro.cs",
+              "RelativeToolTip": "JogodaVelha\\Tabuleiro.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T11:17:16.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fic\\Desktop\\JogodaVelha\\JogodaVelha\\Program.cs",
+              "RelativeDocumentMoniker": "JogodaVelha\\Program.cs",
+              "ToolTip": "C:\\Users\\fic\\Desktop\\JogodaVelha\\JogodaVelha\\Program.cs*",
+              "RelativeToolTip": "JogodaVelha\\Program.cs*",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwCwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T11:15:30.273Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

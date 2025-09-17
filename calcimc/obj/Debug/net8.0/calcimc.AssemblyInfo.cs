@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("calcimc")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8f69428722b5dfc6c5ed719cd4df97d5331cba22")]
 [assembly: System.Reflection.AssemblyProductAttribute("calcimc")]
 [assembly: System.Reflection.AssemblyTitleAttribute("calcimc")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

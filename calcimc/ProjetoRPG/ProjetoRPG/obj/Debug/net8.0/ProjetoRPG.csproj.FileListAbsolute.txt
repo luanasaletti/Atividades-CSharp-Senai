@@ -12,3 +12,11 @@ C:\Users\fic\Desktop\ProjetoRPG\ProjetoRPG\obj\Debug\net8.0\refint\ProjetoRPG.dl
 C:\Users\fic\Desktop\ProjetoRPG\ProjetoRPG\obj\Debug\net8.0\ProjetoRPG.pdb
 C:\Users\fic\Desktop\ProjetoRPG\ProjetoRPG\obj\Debug\net8.0\ProjetoRPG.genruntimeconfig.cache
 C:\Users\fic\Desktop\ProjetoRPG\ProjetoRPG\obj\Debug\net8.0\ref\ProjetoRPG.dll
+C:\Users\fic\Desktop\Atividades-CSharp-Senai\calcimc\ProjetoRPG\ProjetoRPG\obj\Debug\net8.0\ProjetoRPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fic\Desktop\Atividades-CSharp-Senai\calcimc\ProjetoRPG\ProjetoRPG\obj\Debug\net8.0\ProjetoRPG.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Atividades-CSharp-Senai\calcimc\ProjetoRPG\ProjetoRPG\obj\Debug\net8.0\ProjetoRPG.AssemblyInfo.cs
+C:\Users\fic\Desktop\Atividades-CSharp-Senai\calcimc\ProjetoRPG\ProjetoRPG\obj\Debug\net8.0\ProjetoRPG.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Atividades-CSharp-Senai\calcimc\ProjetoRPG\ProjetoRPG\obj\Debug\net8.0\ProjetoRPG.sourcelink.json
+C:\Users\fic\Desktop\Atividades-CSharp-Senai\calcimc\ProjetoRPG\ProjetoRPG\obj\Debug\net8.0\ProjetoRPG.dll
+C:\Users\fic\Desktop\Atividades-CSharp-Senai\calcimc\ProjetoRPG\ProjetoRPG\obj\Debug\net8.0\refint\ProjetoRPG.dll
+C:\Users\fic\Desktop\Atividades-CSharp-Senai\calcimc\ProjetoRPG\ProjetoRPG\obj\Debug\net8.0\ProjetoRPG.pdb

@@ -1,26 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\fic\\Desktop\\ProjetoRPG\\",
+  "WorkspaceRootPath": "C:\\Users\\fic\\Desktop\\Atividades-CSharp-Senai\\calcimc\\ProjetoRPG\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F4A5F45B-8A81-4C98-912D-197462FC892C}|ProjetoRPG\\ProjetoRPG.csproj|c:\\users\\fic\\desktop\\projetorpg\\projetorpg\\entidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F4A5F45B-8A81-4C98-912D-197462FC892C}|ProjetoRPG\\ProjetoRPG.csproj|solutionrelative:projetorpg\\entidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fic\\Desktop\\Atividades-CSharp-Senai\\calcimc\\ProjetoRPG\\ProjetoRPG\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjetoRPG\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F4A5F45B-8A81-4C98-912D-197462FC892C}|ProjetoRPG\\ProjetoRPG.csproj|c:\\users\\fic\\desktop\\projetorpg\\projetorpg\\batalha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F4A5F45B-8A81-4C98-912D-197462FC892C}|ProjetoRPG\\ProjetoRPG.csproj|solutionrelative:projetorpg\\batalha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fic\\Desktop\\Atividades-CSharp-Senai\\calcimc\\ProjetoRPG\\ProjetoRPG\\Personagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjetoRPG\\Personagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F4A5F45B-8A81-4C98-912D-197462FC892C}|ProjetoRPG\\ProjetoRPG.csproj|c:\\users\\fic\\desktop\\projetorpg\\projetorpg\\monstro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F4A5F45B-8A81-4C98-912D-197462FC892C}|ProjetoRPG\\ProjetoRPG.csproj|solutionrelative:projetorpg\\monstro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fic\\Desktop\\Atividades-CSharp-Senai\\calcimc\\ProjetoRPG\\ProjetoRPG\\Batalha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjetoRPG\\Batalha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F4A5F45B-8A81-4C98-912D-197462FC892C}|ProjetoRPG\\ProjetoRPG.csproj|c:\\users\\fic\\desktop\\projetorpg\\projetorpg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F4A5F45B-8A81-4C98-912D-197462FC892C}|ProjetoRPG\\ProjetoRPG.csproj|solutionrelative:projetorpg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fic\\Desktop\\Atividades-CSharp-Senai\\calcimc\\ProjetoRPG\\ProjetoRPG\\Entidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjetoRPG\\Entidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F4A5F45B-8A81-4C98-912D-197462FC892C}|ProjetoRPG\\ProjetoRPG.csproj|c:\\users\\fic\\desktop\\projetorpg\\projetorpg\\personagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F4A5F45B-8A81-4C98-912D-197462FC892C}|ProjetoRPG\\ProjetoRPG.csproj|solutionrelative:projetorpg\\personagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fic\\Desktop\\Atividades-CSharp-Senai\\calcimc\\ProjetoRPG\\ProjetoRPG\\Monstro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjetoRPG\\Monstro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,11 +38,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Monstro.cs",
-              "DocumentMoniker": "C:\\Users\\fic\\Desktop\\ProjetoRPG\\ProjetoRPG\\Monstro.cs",
+              "DocumentMoniker": "C:\\Users\\fic\\Desktop\\Atividades-CSharp-Senai\\calcimc\\ProjetoRPG\\ProjetoRPG\\Monstro.cs",
               "RelativeDocumentMoniker": "ProjetoRPG\\Monstro.cs",
-              "ToolTip": "C:\\Users\\fic\\Desktop\\ProjetoRPG\\ProjetoRPG\\Monstro.cs",
+              "ToolTip": "C:\\Users\\fic\\Desktop\\Atividades-CSharp-Senai\\calcimc\\ProjetoRPG\\ProjetoRPG\\Monstro.cs",
               "RelativeToolTip": "ProjetoRPG\\Monstro.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -51,11 +51,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Batalha.cs",
-              "DocumentMoniker": "C:\\Users\\fic\\Desktop\\ProjetoRPG\\ProjetoRPG\\Batalha.cs",
+              "DocumentMoniker": "C:\\Users\\fic\\Desktop\\Atividades-CSharp-Senai\\calcimc\\ProjetoRPG\\ProjetoRPG\\Batalha.cs",
               "RelativeDocumentMoniker": "ProjetoRPG\\Batalha.cs",
-              "ToolTip": "C:\\Users\\fic\\Desktop\\ProjetoRPG\\ProjetoRPG\\Batalha.cs",
+              "ToolTip": "C:\\Users\\fic\\Desktop\\Atividades-CSharp-Senai\\calcimc\\ProjetoRPG\\ProjetoRPG\\Batalha.cs",
               "RelativeToolTip": "ProjetoRPG\\Batalha.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -64,36 +64,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Personagem.cs",
-              "DocumentMoniker": "C:\\Users\\fic\\Desktop\\ProjetoRPG\\ProjetoRPG\\Personagem.cs",
+              "DocumentMoniker": "C:\\Users\\fic\\Desktop\\Atividades-CSharp-Senai\\calcimc\\ProjetoRPG\\ProjetoRPG\\Personagem.cs",
               "RelativeDocumentMoniker": "ProjetoRPG\\Personagem.cs",
-              "ToolTip": "C:\\Users\\fic\\Desktop\\ProjetoRPG\\ProjetoRPG\\Personagem.cs",
+              "ToolTip": "C:\\Users\\fic\\Desktop\\Atividades-CSharp-Senai\\calcimc\\ProjetoRPG\\ProjetoRPG\\Personagem.cs",
               "RelativeToolTip": "ProjetoRPG\\Personagem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-12T12:41:09.986Z"
+              "WhenOpened": "2025-09-12T12:41:09.986Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Entidade.cs",
-              "DocumentMoniker": "C:\\Users\\fic\\Desktop\\ProjetoRPG\\ProjetoRPG\\Entidade.cs",
+              "DocumentMoniker": "C:\\Users\\fic\\Desktop\\Atividades-CSharp-Senai\\calcimc\\ProjetoRPG\\ProjetoRPG\\Entidade.cs",
               "RelativeDocumentMoniker": "ProjetoRPG\\Entidade.cs",
-              "ToolTip": "C:\\Users\\fic\\Desktop\\ProjetoRPG\\ProjetoRPG\\Entidade.cs",
+              "ToolTip": "C:\\Users\\fic\\Desktop\\Atividades-CSharp-Senai\\calcimc\\ProjetoRPG\\ProjetoRPG\\Entidade.cs",
               "RelativeToolTip": "ProjetoRPG\\Entidade.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-12T12:40:30.181Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\fic\\Desktop\\ProjetoRPG\\ProjetoRPG\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\fic\\Desktop\\Atividades-CSharp-Senai\\calcimc\\ProjetoRPG\\ProjetoRPG\\Program.cs",
               "RelativeDocumentMoniker": "ProjetoRPG\\Program.cs",
-              "ToolTip": "C:\\Users\\fic\\Desktop\\ProjetoRPG\\ProjetoRPG\\Program.cs",
+              "ToolTip": "C:\\Users\\fic\\Desktop\\Atividades-CSharp-Senai\\calcimc\\ProjetoRPG\\ProjetoRPG\\Program.cs",
               "RelativeToolTip": "ProjetoRPG\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
